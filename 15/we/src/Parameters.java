@@ -1,6 +1,6 @@
  public class Parameters {
     public static void main(String[] args) {
-        int[] marks= {20,30,40,50,60};
+        int[] marks= {20,30,49,50,60};
         float average = average(marks, marks.length);
         System.out.println("The average is "+ average);
     }
