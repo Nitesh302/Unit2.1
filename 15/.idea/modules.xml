@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/15.iml" filepath="$PROJECT_DIR$/.idea/15.iml" />
       <module fileurl="file://$PROJECT_DIR$/2pm_1/2pm_1.iml" filepath="$PROJECT_DIR$/2pm_1/2pm_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays and Strings/Arrays and Strings.iml" filepath="$PROJECT_DIR$/Arrays and Strings/Arrays and Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/conditional statements/conditional statements.iml" filepath="$PROJECT_DIR$/conditional statements/conditional statements.iml" />
       <module fileurl="file://$PROJECT_DIR$/we/we.iml" filepath="$PROJECT_DIR$/we/we.iml" />
     </modules>
