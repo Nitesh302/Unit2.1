@@ -3,18 +3,16 @@ public class Function2 {
         int[] num = {20,40,56,67,54,34,21};
         System.out.println(middlenum(num,num.length));
     }
-    public static int[] middlenum(int[] num, int length){
-        int[]a;
-        if (length%2==0){
-            a=new int[2];
-            a[0]= num[(length/2)-1];
-            a[1]=num[length/2];
-        }else {
-            a=new int[1];
-            a[0]=num[length/2];
-        }
-        return a;
+    public static int middlenum(int[] num, int length){
 
+       if (length%2==1){
+           System.out.println("Odd number of elements");
+           return -1;
+       }else if (length%2==0){
+           int middle = length/2;
+           System.out.println(middle);
+       }
+       return length;
     }
 
 }
