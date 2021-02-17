@@ -1,5 +1,3 @@
 public abstract class Shape {
-    public void  CalculatArea(){
-
-    }
+    public abstract void  CalculatArea();
 }
